@@ -7,6 +7,7 @@ TEL;TYPE=CELL:+60122332231
 TEL;TYPE=WORK,VOICE:+60362095400
 TEL;TYPE=WORK,FAX:+60362095411
 EMAIL:david.lee@rdslawpartners.com
-URL:https://www.rdslawpartners.com
+URL;TYPE=WORK:https://www.rdslawpartners.com/david-lee-lai-huat
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/david-lee-a08b3720/
 ADR;TYPE=WORK:;;Level 16\, Menara 1 Dutamas\, Solaris Dutamas\, No. 1 Jalan Dutamas 1;Kuala Lumpur;;50480;Malaysia
 END:VCARD
